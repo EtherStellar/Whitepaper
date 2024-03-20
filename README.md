@@ -1,10 +1,8 @@
 EtherStellar (ETHST)
 Pioneering Stellar Blockchain Finance
 
-Introduction:
 EtherStellar (ETHST) is an Ethereum-compatible token that harnesses the stellar potential of decentralized finance and blockchain technology. Built on the scalable, secure Arbitrum network, EtherStellar transcends boundaries to create an interstellar financial experience.
 
-Vision:
 Our mission is to catalyze blockchain adoption by bridging the divide between crypto-natives and traditional finance. EtherStellar integrates the strengths of Ethereum's battle-tested architecture with radically user-friendly interfaces and tokenomics tailored for the masses.
 
 Stellar Tokenomics:
@@ -40,6 +38,6 @@ Let this manifesto be the launchpad for conversations and community building acr
 
 Website (Whitepaper): https://etherstellar.my.canva.site/
 
-Telegram : https://t.me/Ether_Stellar
+Telegram (Official): https://t.me/Ether_Stellar
 
 X (Twitter): https://twitter.com/Ether_Stellar
